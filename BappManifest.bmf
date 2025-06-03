@@ -1,0 +1,13 @@
+Uuid: bd1775972c944060a7051b364b98bd6f
+ExtensionType: 1
+Name: AI Substitutor
+RepoName: ai-substitutor
+ScreenVersion: 1.0.0
+SerialVersion: 1
+MinPlatformVersion: 0
+ProOnly: False
+Author: PortSwigger
+ShortDescription: This extension uses AI to replace values of HTTP request parameters and headers in Burp Suite.
+EntryPoint: ./target_repo-1.0.0.jar
+BuildCommand: ./gradlew jar
+SupportedProducts: Pro, Community
